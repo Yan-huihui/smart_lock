@@ -1,0 +1,7 @@
+#ifndef _FILL_LIGHT_H_
+#define _FILL_LIGHT_H_
+
+#define LIGHT_GPIO  IOT_IO_NAME_GPIO_10
+#define LED1_GPIO   IOT_IO_NAME_GPIO_8
+#define LED2_GPIO   IOT_IO_NAME_GPIO_2
+#endif
